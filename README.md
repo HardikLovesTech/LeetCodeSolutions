@@ -37,7 +37,7 @@ All solutions are written in a clean, easy-to-understand style — some in **Pyt
 | 25 | 342 Poweroffour | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/342_PowerofFour.py) |
 | 26 | 347 Topkfrequentelements | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/347_TopKFrequentElements.py) |
 | 27 | 49 Groupanagrams | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/49_GroupAnagrams.py) |
-| 28 | 50 Pow(X, N) | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/50_Pow(x, n).py) |
+| 28 | 50 Pow(X, N) | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/50_Pow|x, n.py) |
 | 29 | 54 Spiralmatrix | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/54_SpiralMatrix.py) |
 | 30 | 5 Longestpalindromicsubstring | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/5_LongestPalindromicSubstring.py) |
 | 31 | 65 Validnumber | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/65_ValidNumber.py) |
