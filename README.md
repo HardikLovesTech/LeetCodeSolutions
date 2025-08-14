@@ -25,26 +25,27 @@ All solutions are written in a clean, easy-to-understand style — some in **Pyt
 | 13 | 20 Validparentheses | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/20_ValidParentheses.py) |
 | 14 | 217 Containsduplicates | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/217_ContainsDuplicates.py) |
 | 15 | 21 Mergetwosortedlists | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/21_MergeTwoSortedLists.py) |
-| 16 | 238 Productofarrayexceptself | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/238_ProductofArrayExceptSelf.py) |
-| 17 | 2396 Strictlypalindromicnumber | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2396_StrictlyPalindromicNumber.py) |
-| 18 | 2423 Removelettertoequalizefrequency | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2423_RemoveLetterToEqualizeFrequency.py) |
-| 19 | 242 Validanagram | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/242_ValidAnagram.py) |
-| 20 | 2591 Distributemoneytomaximumchildren | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2591_DistributeMoneytoMaximumChildren.py) |
-| 21 | 268 Missingnumbers | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/268_MissingNumbers.py) |
-| 22 | 2894 Divisibleandnondivisiblesumsdifference | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2894_DivisibleandNondivisibleSumsDifference.py) |
-| 23 | 3110 Scoreofastring | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/3110_ScoreofaString.py) |
-| 24 | 324 Wigglesortii | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/324_WiggleSortII.py) |
-| 25 | 342 Poweroffour | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/342_PowerofFour.py) |
-| 26 | 347 Topkfrequentelements | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/347_TopKFrequentElements.py) |
-| 27 | 49 Groupanagrams | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/49_GroupAnagrams.py) |
-| 28 | 50 Pow(X, N) | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/50_Pow|x,n.py) |
-| 29 | 54 Spiralmatrix | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/54_SpiralMatrix.py) |
-| 30 | 5 Longestpalindromicsubstring | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/5_LongestPalindromicSubstring.py) |
-| 31 | 65 Validnumber | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/65_ValidNumber.py) |
-| 32 | 808 Soupservings | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/808_SoupServings.py) |
-| 33 | 869 Reorderedpowerof2 | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/869_ReorderedPowerof2.py) |
-| 34 | 90 Subsetsii | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/90_SubsetsII.py) |
-| 35 | 9 Palindromenumber | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/9_PalindromeNumber.py) |
+| 16 | 2264 Largest3Samedigitnumberinstring | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2264_Largest3SameDigitNumberinString.py) |
+| 17 | 238 Productofarrayexceptself | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/238_ProductofArrayExceptSelf.py) |
+| 18 | 2396 Strictlypalindromicnumber | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2396_StrictlyPalindromicNumber.py) |
+| 19 | 2423 Removelettertoequalizefrequency | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2423_RemoveLetterToEqualizeFrequency.py) |
+| 20 | 242 Validanagram | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/242_ValidAnagram.py) |
+| 21 | 2591 Distributemoneytomaximumchildren | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2591_DistributeMoneytoMaximumChildren.py) |
+| 22 | 268 Missingnumbers | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/268_MissingNumbers.py) |
+| 23 | 2894 Divisibleandnondivisiblesumsdifference | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2894_DivisibleandNondivisibleSumsDifference.py) |
+| 24 | 3110 Scoreofastring | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/3110_ScoreofaString.py) |
+| 25 | 324 Wigglesortii | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/324_WiggleSortII.py) |
+| 26 | 342 Poweroffour | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/342_PowerofFour.py) |
+| 27 | 347 Topkfrequentelements | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/347_TopKFrequentElements.py) |
+| 28 | 49 Groupanagrams | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/49_GroupAnagrams.py) |
+| 29 | 50 Pow|X,N | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/50_Pow|x,n.py) |
+| 30 | 54 Spiralmatrix | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/54_SpiralMatrix.py) |
+| 31 | 5 Longestpalindromicsubstring | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/5_LongestPalindromicSubstring.py) |
+| 32 | 65 Validnumber | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/65_ValidNumber.py) |
+| 33 | 808 Soupservings | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/808_SoupServings.py) |
+| 34 | 869 Reorderedpowerof2 | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/869_ReorderedPowerof2.py) |
+| 35 | 90 Subsetsii | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/90_SubsetsII.py) |
+| 36 | 9 Palindromenumber | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/9_PalindromeNumber.py) |
 <!-- INDEX_END -->
 
 *(Click on **View Code** to open the file in GitHub.)*
