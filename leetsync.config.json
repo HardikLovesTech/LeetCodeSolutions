@@ -1,0 +1,10 @@
+{
+  "github": {
+    "repo": "HardikLovesTech/LeetCodeSolutions",
+    "branch": "main",
+    "directory": "solutions"
+  },
+  "leetcode": {
+    "language": "python3"
+  }
+}
