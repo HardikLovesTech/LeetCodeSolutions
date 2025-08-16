@@ -40,7 +40,7 @@ All solutions are written in a clean, easy-to-understand style — some in **Pyt
 | 28 | 342 | 342 Poweroffour | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/342_PowerofFour.py) |
 | 29 | 347 | 347 Topkfrequentelements | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/347_TopKFrequentElements.py) |
 | 30 | 49 | 49 Groupanagrams | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/49_GroupAnagrams.py) |
-| 31 | 50 | 50 Pow|X,N | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/50_Pow|x,n.py) |
+| 31 | 50 | 50 Pow|X,N | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/50_Pow%7Cx,n.py) |
 | 32 | 54 | 54 Spiralmatrix | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/54_SpiralMatrix.py) |
 | 33 | 58 | 58 Length Of Last Word | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/58-length-of-last-word/README.md) | [length-of-last-word.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/58-length-of-last-word/length-of-last-word.py) |
 | 34 | 5 | 5 Longestpalindromicsubstring | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/5_LongestPalindromicSubstring.py) |
@@ -54,12 +54,6 @@ All solutions are written in a clean, easy-to-understand style — some in **Pyt
 <!-- INDEX_END -->
 
 *(Click on **View Code** to open the file in GitHub.)*
-
----
-
-## 📝 Solution Explanations
-
-For a brief explanation of each solution, check out the [**Solution Notes**](./EXPLANATIONS.md) page.
 
 ---
 
