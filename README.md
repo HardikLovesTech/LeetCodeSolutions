@@ -49,12 +49,13 @@ All solutions are written in a clean, easy-to-understand style — some in **Pyt
 | 37 | 5 | 5 Longestpalindromicsubstring | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/5_LongestPalindromicSubstring.py) |
 | 38 | 65 | 65 Validnumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/65_ValidNumber.py) |
 | 39 | 66 | 66 Plus One | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/66-plus-one/README.md) | [plus-one.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/66-plus-one/plus-one.py) |
-| 40 | 7 | 7 Reverse Integer | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/7-reverse-integer/README.md) | [reverse-integer.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/7-reverse-integer/reverse-integer.py) |
-| 41 | 808 | 808 Soupservings | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/808_SoupServings.py) |
-| 42 | 867 | 867 New 21 Game | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/README.md) | [new-21-game.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/new-21-game.py) |
-| 43 | 869 | 869 Reorderedpowerof2 | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/869_ReorderedPowerof2.py) |
-| 44 | 90 | 90 Subsetsii | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/90_SubsetsII.py) |
-| 45 | 9 | 9 Palindromenumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/9_PalindromeNumber.py) |
+| 40 | 69 | 69 Sqrtx | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/69-sqrtx/README.md) | [sqrtx.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/69-sqrtx/sqrtx.py) |
+| 41 | 7 | 7 Reverse Integer | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/7-reverse-integer/README.md) | [reverse-integer.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/7-reverse-integer/reverse-integer.py) |
+| 42 | 808 | 808 Soupservings | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/808_SoupServings.py) |
+| 43 | 867 | 867 New 21 Game | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/README.md) | [new-21-game.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/new-21-game.py) |
+| 44 | 869 | 869 Reorderedpowerof2 | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/869_ReorderedPowerof2.py) |
+| 45 | 90 | 90 Subsetsii | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/90_SubsetsII.py) |
+| 46 | 9 | 9 Palindromenumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/9_PalindromeNumber.py) |
 <!-- INDEX_END -->
 
 *(Click on **View Code** to open the file in GitHub.)*
