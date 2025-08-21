@@ -24,41 +24,42 @@ All solutions are written in a clean, easy-to-understand style — some in **Pyt
 | 12 | 172 | 172 Factorialtrailingzeroes | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/172_FactorialTrailingZeroes.py) |
 | 13 | 17 | 17 Lettercombinationsofaphonenumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/17_LetterCombinationsofaPhoneNumber.py) |
 | 14 | 1 | 1 Twosum | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/1_TwoSum.py) |
-| 15 | 20 | 20 Validparentheses | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/20_ValidParentheses.py) |
-| 16 | 217 | 217 Containsduplicates | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/217_ContainsDuplicates.py) |
-| 17 | 21 | 21 Mergetwosortedlists | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/21_MergeTwoSortedLists.py) |
-| 18 | 2264 | 2264 Largest3Samedigitnumberinstring | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2264_Largest3SameDigitNumberinString.py) |
-| 19 | 238 | 238 Productofarrayexceptself | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/238_ProductofArrayExceptSelf.py) |
-| 20 | 2396 | 2396 Strictlypalindromicnumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2396_StrictlyPalindromicNumber.py) |
-| 21 | 2423 | 2423 Removelettertoequalizefrequency | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2423_RemoveLetterToEqualizeFrequency.py) |
-| 22 | 242 | 242 Validanagram | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/242_ValidAnagram.py) |
-| 23 | 2591 | 2591 Distributemoneytomaximumchildren | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2591_DistributeMoneytoMaximumChildren.py) |
-| 24 | 268 | 268 Missingnumbers | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/268_MissingNumbers.py) |
-| 25 | 27 | 27 Remove Element | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/27-remove-element/README.md) | [remove-element.java](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/27-remove-element/remove-element.java) |
-| 26 | 2894 | 2894 Divisibleandnondivisiblesumsdifference | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2894_DivisibleandNondivisibleSumsDifference.py) |
-| 27 | 3110 | 3110 Scoreofastring | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/3110_ScoreofaString.py) |
-| 28 | 324 | 324 Wigglesortii | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/324_WiggleSortII.py) |
-| 29 | 34 | 34 Find First And Last Position Of Element In Sorted Array | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/34-find-first-and-last-position-of-element-in-sorted-array/README.md) | [find-first-and-last-position-of-element-in-sorted-array.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py) |
-| 30 | 342 | 342 Power Of Four | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/342-power-of-four/README.md) | [power-of-four.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/342-power-of-four/power-of-four.py) |
-| 31 | 342 | 342 Poweroffour | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/342_PowerofFour.py) |
-| 32 | 347 | 347 Topkfrequentelements | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/347_TopKFrequentElements.py) |
-| 33 | 451 | 451 Sort Characters By Frequency | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/451-sort-characters-by-frequency/README.md) | [sort-characters-by-frequency.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/451-sort-characters-by-frequency/sort-characters-by-frequency.py) |
-| 34 | 49 | 49 Groupanagrams | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/49_GroupAnagrams.py) |
-| 35 | 5 | 5 Longest Palindromic Substring | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/5-longest-palindromic-substring/README.md) | [longest-palindromic-substring.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/5-longest-palindromic-substring/longest-palindromic-substring.py) |
-| 36 | 50 | 50 Pow|X,N | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/50_Pow|x,n.py) |
-| 37 | 54 | 54 Spiralmatrix | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/54_SpiralMatrix.py) |
-| 38 | 58 | 58 Length Of Last Word | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/58-length-of-last-word/README.md) | [length-of-last-word.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/58-length-of-last-word/length-of-last-word.py) |
-| 39 | 5 | 5 Longestpalindromicsubstring | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/5_LongestPalindromicSubstring.py) |
-| 40 | 65 | 65 Validnumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/65_ValidNumber.py) |
-| 41 | 66 | 66 Plus One | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/66-plus-one/README.md) | [plus-one.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/66-plus-one/plus-one.py) |
-| 42 | 69 | 69 Sqrtx | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/69-sqrtx/README.md) | [sqrtx.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/69-sqrtx/sqrtx.py) |
-| 43 | 7 | 7 Reverse Integer | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/7-reverse-integer/README.md) | [reverse-integer.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/7-reverse-integer/reverse-integer.py) |
-| 44 | 8 | 8 String To Integer Atoi | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/8-string-to-integer-atoi/README.md) | [string-to-integer-atoi.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/8-string-to-integer-atoi/string-to-integer-atoi.py) |
-| 45 | 808 | 808 Soupservings | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/808_SoupServings.py) |
-| 46 | 867 | 867 New 21 Game | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/README.md) | [new-21-game.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/new-21-game.py) |
-| 47 | 869 | 869 Reorderedpowerof2 | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/869_ReorderedPowerof2.py) |
-| 48 | 90 | 90 Subsetsii | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/90_SubsetsII.py) |
-| 49 | 9 | 9 Palindromenumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/9_PalindromeNumber.py) |
+| 15 | 205 | 205 Isomorphic Strings | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/205-isomorphic-strings/README.md) | [isomorphic-strings.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/205-isomorphic-strings/isomorphic-strings.py) |
+| 16 | 20 | 20 Validparentheses | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/20_ValidParentheses.py) |
+| 17 | 217 | 217 Containsduplicates | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/217_ContainsDuplicates.py) |
+| 18 | 21 | 21 Mergetwosortedlists | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/21_MergeTwoSortedLists.py) |
+| 19 | 2264 | 2264 Largest3Samedigitnumberinstring | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2264_Largest3SameDigitNumberinString.py) |
+| 20 | 238 | 238 Productofarrayexceptself | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/238_ProductofArrayExceptSelf.py) |
+| 21 | 2396 | 2396 Strictlypalindromicnumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2396_StrictlyPalindromicNumber.py) |
+| 22 | 2423 | 2423 Removelettertoequalizefrequency | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2423_RemoveLetterToEqualizeFrequency.py) |
+| 23 | 242 | 242 Validanagram | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/242_ValidAnagram.py) |
+| 24 | 2591 | 2591 Distributemoneytomaximumchildren | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2591_DistributeMoneytoMaximumChildren.py) |
+| 25 | 268 | 268 Missingnumbers | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/268_MissingNumbers.py) |
+| 26 | 27 | 27 Remove Element | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/27-remove-element/README.md) | [remove-element.java](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/27-remove-element/remove-element.java) |
+| 27 | 2894 | 2894 Divisibleandnondivisiblesumsdifference | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/2894_DivisibleandNondivisibleSumsDifference.py) |
+| 28 | 3110 | 3110 Scoreofastring | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/3110_ScoreofaString.py) |
+| 29 | 324 | 324 Wigglesortii | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/324_WiggleSortII.py) |
+| 30 | 34 | 34 Find First And Last Position Of Element In Sorted Array | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/34-find-first-and-last-position-of-element-in-sorted-array/README.md) | [find-first-and-last-position-of-element-in-sorted-array.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py) |
+| 31 | 342 | 342 Power Of Four | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/342-power-of-four/README.md) | [power-of-four.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/342-power-of-four/power-of-four.py) |
+| 32 | 342 | 342 Poweroffour | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/342_PowerofFour.py) |
+| 33 | 347 | 347 Topkfrequentelements | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/347_TopKFrequentElements.py) |
+| 34 | 451 | 451 Sort Characters By Frequency | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/451-sort-characters-by-frequency/README.md) | [sort-characters-by-frequency.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/451-sort-characters-by-frequency/sort-characters-by-frequency.py) |
+| 35 | 49 | 49 Groupanagrams | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/49_GroupAnagrams.py) |
+| 36 | 5 | 5 Longest Palindromic Substring | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/5-longest-palindromic-substring/README.md) | [longest-palindromic-substring.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/5-longest-palindromic-substring/longest-palindromic-substring.py) |
+| 37 | 50 | 50 Pow|X,N | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/50_Pow|x,n.py) |
+| 38 | 54 | 54 Spiralmatrix | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/54_SpiralMatrix.py) |
+| 39 | 58 | 58 Length Of Last Word | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/58-length-of-last-word/README.md) | [length-of-last-word.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/58-length-of-last-word/length-of-last-word.py) |
+| 40 | 5 | 5 Longestpalindromicsubstring | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/5_LongestPalindromicSubstring.py) |
+| 41 | 65 | 65 Validnumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/65_ValidNumber.py) |
+| 42 | 66 | 66 Plus One | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/66-plus-one/README.md) | [plus-one.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/66-plus-one/plus-one.py) |
+| 43 | 69 | 69 Sqrtx | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/69-sqrtx/README.md) | [sqrtx.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/69-sqrtx/sqrtx.py) |
+| 44 | 7 | 7 Reverse Integer | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/7-reverse-integer/README.md) | [reverse-integer.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/7-reverse-integer/reverse-integer.py) |
+| 45 | 8 | 8 String To Integer Atoi | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/8-string-to-integer-atoi/README.md) | [string-to-integer-atoi.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/8-string-to-integer-atoi/string-to-integer-atoi.py) |
+| 46 | 808 | 808 Soupservings | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/808_SoupServings.py) |
+| 47 | 867 | 867 New 21 Game | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/README.md) | [new-21-game.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/new-21-game.py) |
+| 48 | 869 | 869 Reorderedpowerof2 | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/869_ReorderedPowerof2.py) |
+| 49 | 90 | 90 Subsetsii | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/90_SubsetsII.py) |
+| 50 | 9 | 9 Palindromenumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/9_PalindromeNumber.py) |
 <!-- INDEX_END -->
 
 *(Click on **View Code** to open the file in GitHub.)*
