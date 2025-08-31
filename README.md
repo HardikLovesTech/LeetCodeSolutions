@@ -73,8 +73,9 @@ All solutions are written in a clean, easy-to-understand style — some in **Pyt
 | 61 | 808 | 808 Soupservings | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/808_SoupServings.py) |
 | 62 | 867 | 867 New 21 Game | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/README.md) | [new-21-game.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/new-21-game.py) |
 | 63 | 869 | 869 Reorderedpowerof2 | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/869_ReorderedPowerof2.py) |
-| 64 | 90 | 90 Subsetsii | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/90_SubsetsII.py) |
-| 65 | 9 | 9 Palindromenumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/9_PalindromeNumber.py) |
+| 64 | 909 | 909 Stone Game | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/909-stone-game/README.md) | [stone-game.java](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/909-stone-game/stone-game.java) |
+| 65 | 90 | 90 Subsetsii | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/90_SubsetsII.py) |
+| 66 | 9 | 9 Palindromenumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/9_PalindromeNumber.py) |
 <!-- INDEX_END -->
 
 *(Click on **View Code** to open the file in GitHub.)*
