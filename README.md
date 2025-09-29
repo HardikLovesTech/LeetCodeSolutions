@@ -86,14 +86,15 @@ All solutions are written in a clean, easy-to-understand style — some in **Pyt
 | 74 | 7 | 7 Reverse Integer | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/7-reverse-integer/README.md) | [reverse-integer.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/7-reverse-integer/reverse-integer.py) |
 | 75 | 73 | 73 Set Matrix Zeroes | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/73-set-matrix-zeroes/README.md) | [set-matrix-zeroes.java](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/73-set-matrix-zeroes/set-matrix-zeroes.java) |
 | 76 | 75 | 75 Sort Colors | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/75-sort-colors/README.md) | [sort-colors.java](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/75-sort-colors/sort-colors.java) |
-| 77 | 8 | 8 String To Integer Atoi | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/8-string-to-integer-atoi/README.md) | [string-to-integer-atoi.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/8-string-to-integer-atoi/string-to-integer-atoi.py) |
-| 78 | 808 | 808 Soupservings | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/808_SoupServings.py) |
-| 79 | 867 | 867 New 21 Game | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/README.md) | [new-21-game.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/new-21-game.py) |
-| 80 | 869 | 869 Reorderedpowerof2 | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/869_ReorderedPowerof2.py) |
-| 81 | 909 | 909 Stone Game | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/909-stone-game/README.md) | [stone-game.java](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/909-stone-game/stone-game.java) |
-| 82 | 90 | 90 Subsetsii | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/90_SubsetsII.py) |
-| 83 | 9 | 9 Palindromenumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/9_PalindromeNumber.py) |
-| 84 | - | Solutions | - | - |
+| 77 | 78 | 78 Subsets | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/78-subsets/README.md) | [subsets.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/78-subsets/subsets.py) |
+| 78 | 8 | 8 String To Integer Atoi | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/8-string-to-integer-atoi/README.md) | [string-to-integer-atoi.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/8-string-to-integer-atoi/string-to-integer-atoi.py) |
+| 79 | 808 | 808 Soupservings | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/808_SoupServings.py) |
+| 80 | 867 | 867 New 21 Game | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/README.md) | [new-21-game.py](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/867-new-21-game/new-21-game.py) |
+| 81 | 869 | 869 Reorderedpowerof2 | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/869_ReorderedPowerof2.py) |
+| 82 | 909 | 909 Stone Game | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/909-stone-game/README.md) | [stone-game.java](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/909-stone-game/stone-game.java) |
+| 83 | 90 | 90 Subsetsii | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/90_SubsetsII.py) |
+| 84 | 9 | 9 Palindromenumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/9_PalindromeNumber.py) |
+| 85 | - | Solutions | - | - |
 <!-- INDEX_END -->
 
 *(Click on **View Code** to open the file in GitHub.)*
