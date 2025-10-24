@@ -116,8 +116,9 @@ All solutions are written in a clean, easy-to-understand style — some in **Pyt
 | 104 | 908 | 908 Middle Of The Linked List | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/908-middle-of-the-linked-list/README.md) | - |
 | 105 | 909 | 909 Stone Game | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/909-stone-game/README.md) | [stone-game.java](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/909-stone-game/stone-game.java) |
 | 106 | 90 | 90 Subsetsii | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/90_SubsetsII.py) |
-| 107 | 9 | 9 Palindromenumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/9_PalindromeNumber.py) |
-| 108 | - | Solutions | - | - |
+| 107 | 932 | 932 Monotonic Array | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/932-monotonic-array/README.md) | [monotonic-array.java](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/932-monotonic-array/monotonic-array.java) |
+| 108 | 9 | 9 Palindromenumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/9_PalindromeNumber.py) |
+| 109 | - | Solutions | - | - |
 <!-- INDEX_END -->
 
 *(Click on **View Code** to open the file in GitHub.)*
