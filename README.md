@@ -142,7 +142,6 @@ All solutions are written in a clean, easy-to-understand style — some in **Pyt
 | 130 | 90 | 90 Subsetsii | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/90_SubsetsII.py) |
 | 131 | 932 | 932 Monotonic Array | [Problem](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/932-monotonic-array/README.md) | [monotonic-array.java](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/932-monotonic-array/monotonic-array.java) |
 | 132 | 9 | 9 Palindromenumber | - | [View Code](https://github.com/HardikLovesTech/LeetCodeSolutions/blob/main/solutions/9_PalindromeNumber.py) |
-| 133 | - | Solutions | - | - |
 <!-- INDEX_END -->
 
 *(Click on **View Code** to open the file in GitHub.)*
